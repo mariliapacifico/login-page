@@ -16,4 +16,4 @@
 
 <h2>Final Result</h2>
 
-<img src="Screenshot.PNG" />
+<img src="images/final.png" />
